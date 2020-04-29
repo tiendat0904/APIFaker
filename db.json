@@ -1,0 +1,3 @@
+{
+  "subjectClasses" : [{"subjectClassID":1,"subjectClassName":"N01","startDate":"2020-04-04T00:00:00","endDate":"2020-05-05T00:00:00","status":1,"subjectID":1,"subject":null,"attendance":[],"event":[]},{"subjectClassID":2,"subjectClassName":"N02","startDate":"2020-04-04T00:00:00","endDate":"2020-05-05T00:00:00","status":1,"subjectID":1,"subject":null,"attendance":[],"event":[]}]
+}
